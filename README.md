@@ -90,7 +90,7 @@ To run this project, you need to have Python installed along with the following 
 
 ## **Model Architecture** 🧠
 The model architecture is a **Convolutional Neural Network (CNN)** with the following layers:
-1. **Input Layer**: Accepts images of size 150x150x3.
+1. **Input Layer**: Accepts images of size 128x128x3.
 2. **Convolutional Layers**: Three convolutional layers with ReLU activation.
 3. **Max Pooling Layers**: Three max pooling layers to reduce dimensionality.
 4. **Flatten Layer**: Flattens the output for the fully connected layers.
