@@ -67,11 +67,6 @@ To run this project, you need to have Python installed along with the following 
      │   ├── Meningioma/
      │   ├── Pituitary/
      │   └── No Tumor/
-     ├── Validation/
-     │   ├── Glioma/
-     │   ├── Meningioma/
-     │   ├── Pituitary/
-     │   └── No Tumor/
      └── Test/
          ├── Glioma/
          ├── Meningioma/
