@@ -73,6 +73,9 @@ To run this project, you need to have Python installed along with the following 
          ├── Pituitary/
          └── No Tumor/
      ```
+     dataset link in kaggel:
+     https://www.kaggle.com/datasets/awsaf49/brats2020-training-data
+     ```
 
 2. **Train the Model:**
    - Run the following command to train the model:
