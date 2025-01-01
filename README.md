@@ -73,7 +73,9 @@ To run this project, you need to have Python installed along with the following 
          ├── Pituitary/
          └── No Tumor/
      ```
+     
      dataset link in kaggel:
+     ```bash
      https://www.kaggle.com/datasets/awsaf49/brats2020-training-data
      ```
 
