@@ -129,3 +129,10 @@ The model achieves the following performance on the test dataset:
 - **F1-Score**: 95.00%
 
 ---
+
+
+## Contact
+If you have any questions or suggestions, feel free to reach out:
+
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/navid-ahmadii/)
+
