@@ -40,7 +40,7 @@ To run this project, you need to have Python installed along with the following 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/brain_tumor_classification.git
+   git clone https://github.com/NavidAhmadiii/brain_tumor_classification.git
    cd brain_tumor_classification
    ```
 
