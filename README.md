@@ -88,8 +88,6 @@ To run this project, you need to have Python installed along with the following 
 3. **Evaluate the Model:**
    - After training, the model will be evaluated on the test dataset, and the results will be displayed.
 
-4. **Make Predictions:**
-   - You can use the trained model to make predictions on new images by modifying the `predict.py` script.
 
 ---
 
