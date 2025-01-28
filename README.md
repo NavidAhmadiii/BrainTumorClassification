@@ -5,14 +5,14 @@ This project aims to classify brain tumor images into different categories using
 ---
 
 ## **Table of Contents** 📑
-1. [Project Overview](#project-overview)
-2. [Dataset](#dataset)
-3. [Installation](#installation)
-4. [Usage](#usage)
-5. [Model Architecture](#model-architecture)
-6. [Training](#training)
-7. [Evaluation](#evaluation)
-8. [Results](#results)
+1. [Project Overview](#-project-overview)
+2. [Dataset](#-dataset)
+3. [Installation](#-installation)
+4. [Usage](#-usage)
+5. [Model Architecture](#-model-architecture)
+6. [Training](#-training)
+7. [Evaluation](#-evaluation)
+8. [Results](#-results)
 
 ---
 
